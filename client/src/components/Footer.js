@@ -6,6 +6,7 @@ function Footer() {
     return (
       <Navbar bg="light" expand="lg" fixed="bottom">
         <p>© Desiree Cruz, LLC</p>
+        <p>Social Media</p>
       </Navbar>
     );
   }
